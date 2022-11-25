@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niall-LYZ
-- 👀 I’m interested in data anaylsis, data science and software development.
-- 🌱 I’m currently learning data visulisation within python
+- 👀 I’m interested in software development looking to become a full stack developer I am also interested in data anaylsis, data science.
+- 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
