@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niall-LYZ
 - 👀 I’m interested in software development looking to become a full stack developer I am also interested in data anaylsis, data science.
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C#, HTML, CSS, JS, Blazor 
+- 💞️ I’m looking to collaborate on portfolio projects
 - 📫 How to reach me ...
 
 <!---
