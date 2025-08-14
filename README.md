@@ -1,4 +1,4 @@
-# Hi there, I'm Niall-LYZ 👋
+# Hi there, I'm Niall 👋
 
 ##  About Me
 I’m a passionate DevSecOps & DevSecAI Engineer, dedicated to building secure, scalable, and automated pipelines that integrate AI-driven security into every stage of software delivery.
