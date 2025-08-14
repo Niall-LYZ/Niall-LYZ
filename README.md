@@ -49,9 +49,7 @@ I’m a passionate DevSecOps & DevSecAI Engineer, dedicated to building secure, 
 ---
 
 ##  Certifications & Highlights
--  Certified in Cloud Security (e.g., AWS/Azure/GCP security certs)
--  Active contributor to open-source DevSecOps projects and community discussions
--  Regularly share insights via blog posts, talks, or social media
+-  Certified in...
 
 ---
 
