@@ -48,12 +48,6 @@ I’m a passionate DevSecOps & DevSecAI Engineer, dedicated to building secure, 
 
 ---
 
-##  Blogs & Talks
-- [“DevSecOps for AI-first pipelines” (Blog/Article)](link)
-- [“Securing LLMs with prompt adversarial testing” (Video/Talk)](link)
-
----
-
 ##  Certifications & Highlights
 -  Certified in Cloud Security (e.g., AWS/Azure/GCP security certs)
 -  Active contributor to open-source DevSecOps projects and community discussions
