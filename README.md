@@ -65,20 +65,3 @@ I’m a passionate DevSecOps & DevSecAI Engineer, dedicated to building secure, 
 [GitHub](https://github.com/Niall-LYZ) · [LinkedIn](your-linkedin-url) · [Twitter/X](your-twitter-handle)
 
 ---
-
-###  Tips for Personalizing Your README:
-1. **Add badges** (e.g., build status, coverage, views) once your projects are live.
-2. **Insert screenshots or GIFs** for visual impact.
-3. **Keep descriptions brief but impactful**—highlight the value you deliver and technologies you leverage.
-4. **Link to any presentations, blog posts, or video demos** you’ve created.
-5. **Include contact links** if you're open to collaboration, consulting, or new opportunities.
-
----
-
-**Why this works for a DevSecAI Engineer**:
-- Clearly communicates your **dual specialty** in DevSecOps and AI.
-- Highlights **AI-enhanced security**, a rapidly evolving and high-impact space :contentReference[oaicite:0]{index=0}.
-- Showcases a proactive approach to **AI-driven tooling**, **pipeline automation**, and **policy enforcement**, resonating with modern DevSecOps/DevSecAI practices.
-
-Let me know if you'd like help filling in details for a specific project or polishing any section further!
-::contentReference[oaicite:1]{index=1}
